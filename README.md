@@ -1,13 +1,16 @@
 ASUS UX32VD
 ИНФО
-Нужные EFI файлы для macOS Catalina на ASUS UX32VD
+Нужные EFI файлы и кексты для macOS Catalina на ASUS UX32VD
 
 macOS version: 10.15.3
 clover version: 2.5k r5104
 
 BIOS
+
 Используемая версия 214
+
 Настройки:
+
 Basic
 - Intel Virtualization Technology [Enabled]
 - Intel AES-NI [Enabled]
@@ -30,14 +33,21 @@ Network
 - Network Stack [Disabled]
 
 Железо:
+
 Этот Hackintosh основан на ноутбуке ASUS UX32VD, с процессором Intel Core i7-3517U и графической картой NVIDIA GeForce GT 620M, экран 1920x1080 IPS.
 
 ОЗУ
+
 Модуль оперативной памяти объемом 2 ГБ был заменен эквивалентным модулем объемом 8 ГБ, чтобы получить 10 ГБ ОЗУ.
 
 WIFI / Bluetooth
+
 Поскольку стандартная карта WiFi / BT не поддерживается macOS, она заменяется комбинированной картой Broadcom BCM4352.
 Покупалась [тут](https://aliexpress.ru/item/32818513029.html?spm=a2g0s.9042311.0.0.264d33edpYsXDL).
+
+HDD / SDD
+
+Штатный HDD заменён на Samsung 860EVO 500Gb
 
 Работает:
 
